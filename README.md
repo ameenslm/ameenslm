@@ -12,21 +12,36 @@ Welcome to my GitHub profile! I'm Ameen, a passionate developer with a love for 
 ## 🚀 About Me
 
 - 💻 I’m currently working on [Project Name](https://github.com/ameenslm/project-name)
-- 🌱 I’m currently learning [Technology/Language]
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on [Project/Issue]
 - 🤔 I’m looking for help with [Project/Technology]
-- 💬 Ask me about [Topics/Technologies]
+- 💬 Ask me about Geospatial Tools, Geography, Disaster Management
 - 📫 How to reach me: [Email](mailto:ameensalam@hotmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Interesting Fact]
+- ⚡ Fun fact: "I secretly dream of using GIS to map Mars one day. Space disasters need planning too!" 😉
 
 ## 🛠️ Technologies & Tools
 
+Geospatial Tools
+![ArcGIS Pro](https://img.shields.io/badge/-ArcGIS%20Pro-333333?style=flat&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=qgis&logoColor=green)
+![ERDAS Imagine](https://img.shields.io/badge/-ERDAS%20Imagine-333333?style=flat&logo=hexagon&logoColor=blue)
+
+Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R Programming](https://img.shields.io/badge/-R%20Programming-333333?style=flat&logo=r&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+Statistical Analysis
+![SPSS](https://img.shields.io/badge/-SPSS-333333?style=flat&logo=ibm&logoColor=blue)
+
+Designing Softwares
+![AutoCAD 2D](https://img.shields.io/badge/-AutoCAD%202D-333333?style=flat&logo=autodesk&logoColor=lightblue)
+![Revit Architecture](https://img.shields.io/badge/-Revit%20Architecture-333333?style=flat&logo=autodesk&logoColor=lightblue)
+![3ds Max](https://img.shields.io/badge/-3ds%20Max-333333?style=flat&logo=autodesk&logoColor=lightblue)
+
 
 ## 📈 GitHub Stats
 
