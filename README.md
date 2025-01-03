@@ -23,7 +23,7 @@ I’m Ameen, a passionate Geographer and an Aspiring Developer blending geospati
    * Combining remote sensing with AI to monitor environmental changes.
 - 📫 How to reach me: [Email](mailto:ameensalam@hotmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "I secretly dream of using GIS to map Mars one day. Space disasters need planning too!" 😉
+- ⚡ Fun fact: "I secretly dream of mapping 'Mars' one day. Space disasters need planning too!" 😉
 
 ## 🛠️ Technologies & Tools
 
