@@ -41,6 +41,7 @@ Programming Languages
 
 Statistical Analysis
 ![SPSS](https://img.shields.io/badge/-SPSS-333333?style=flat&logo=ibm&logoColor=blue)
+![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=blue)
 
 Designing Softwares
 ![AutoCAD 2D](https://img.shields.io/badge/-AutoCAD%202D-333333?style=flat&logo=autodesk&logoColor=lightblue)
