@@ -8,6 +8,7 @@
 
 
 Welcome to my GitHub profile! 
+
 I’m Ameen, a passionate Geographer and an Aspiring Developer blending geospatial science, technology, and coding to solve complex challenges in disaster management and urban planning. 🌍💻
 
 ## 🚀 About Me
@@ -17,11 +18,12 @@ I’m Ameen, a passionate Geographer and an Aspiring Developer blending geospati
 - 👯 I’m looking to collaborate on: Innovative projects in GIS, Remote Sensing, Disaster Management and Sustainable Development.
 - 🤝 I’m seeking guidance on: Building cloud-based geospatial workflows, scalable GIS solutions and leveraging Machine Learning for spatial data insights.
 - 💬 Ask me about: Geospatial tools, disaster resilience strategies and sustainable urban planning.
-🎯 Interests:
+- 🎯 Interests:
    * Exploring how data visualization can transform disaster risk communication.
    * Using geospatial analytics for climate change mitigation and resource management.
    * Combining remote sensing with AI to monitor environmental changes.
-- 📫 How to reach me: [Email](mailto:ameensalam@hotmail.com)
+- 📫 How to reach me: [Email](mailto:ameensalam@hotmail.
+- )
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I secretly dream of mapping 'Mars' one day. Space disasters need planning too!" 😉
 
