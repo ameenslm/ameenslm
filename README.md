@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm Ameen, a passionate developer with a love for 
 
 Geospatial Tools
 ![ArcGIS Pro](https://img.shields.io/badge/-ArcGIS%20Pro-333333?style=flat&logo=arcgis&logoColor=white)
-![ArcMap](https://img.shields.io/badge/-ArcMap-333333?style=flat&logo=arcgis&logoColor=white)
 ![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=qgis&logoColor=green)
 ![ERDAS Imagine](https://img.shields.io/badge/-ERDAS%20Imagine-333333?style=flat&logo=hexagon&logoColor=blue)
 
