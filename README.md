@@ -22,8 +22,7 @@ I’m Ameen, a passionate Geographer and an Aspiring Developer blending geospati
    * Exploring how data visualization can transform disaster risk communication.
    * Using geospatial analytics for climate change mitigation and resource management.
    * Combining remote sensing with AI to monitor environmental changes.
-- 📫 How to reach me: [Email](mailto:ameensalam@hotmail.
-- )
+- 📫 How to reach me: [Email](mailto:ameensalam@hotmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I secretly dream of mapping 'Mars' one day. Space disasters need planning too!" 😉
 
