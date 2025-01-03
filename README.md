@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm Ameen, a passionate developer with a love for 
 
 - 💻 I’m currently working on [Project Name](https://github.com/ameenslm/project-name)
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on [Project/Issue]
-- 🤔 I’m looking for help with [Project/Technology]
+- 👯 I’m looking to collaborate on projects on GIS, Remote Sensing and Disaster Management
+- 🤔 I’m looking for help with Google Earth Engine
 - 💬 Ask me about Geospatial Tools, Geography, Disaster Management
 - 📫 How to reach me: [Email](mailto:ameensalam@hotmail.com)
 - 😄 Pronouns: He/Him
