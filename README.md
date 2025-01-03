@@ -7,7 +7,7 @@
 [![Linkedin: Ameen](https://img.shields.io/badge/-ameen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameenslm/)](https://www.linkedin.com/in/ameensalam/)
 
 
-Welcome to my GitHub profile! I'm Ameen, a passionate developer with a love for coding and technology.
+Welcome to my GitHub profile! I'm Ameen, a passionate Geographer and an Aspiring Developer with a deep love for coding and technology. I thrive on combining geospatial science with cutting-edge tools to solve real-world problems and drive sustainable development. Explore my projects to see how I blend data, maps, and code to create impactful solutions! 🌍💻
 
 ## 🚀 About Me
 
