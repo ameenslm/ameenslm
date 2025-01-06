@@ -38,7 +38,6 @@ Programming Languages
 ![R Programming](https://img.shields.io/badge/-R%20Programming-333333?style=flat&logo=r&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 Statistical Analysis
 ![SPSS](https://img.shields.io/badge/-SPSS-333333?style=flat&logo=ibm&logoColor=blue)
