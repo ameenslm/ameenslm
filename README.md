@@ -4,7 +4,7 @@
 <!--
 **ameenslm/ameenslm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![Linkedin: Ameen](https://img.shields.io/badge/-ameen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameenslm/)](https://www.linkedin.com/in/ameensalam/)
+[![Linkedin: Ameen](https://img.shields.io/badge/-ameen salam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameenslm/)](https://www.linkedin.com/in/ameensalam/)
 
 
 Welcome to my GitHub profile! 
