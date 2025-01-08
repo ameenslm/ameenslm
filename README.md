@@ -1,9 +1,10 @@
 # Hi there, I'm Ameen Salam A ! 👋
 
+
 <!--
 **ameenslm/ameenslm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![GitHub followers](https://img.shields.io/github/followers/ameenslm?label=Follow&style=social)](https://github.com/ameenslm?tab=followers)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ameenslm.ameenslm)
 [![Linkedin: Ameen](https://img.shields.io/badge/-ameen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameenslm/)](https://www.linkedin.com/in/ameensalam/)
 
 
