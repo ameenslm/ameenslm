@@ -15,7 +15,7 @@ I’m a passionate Geographer and an Aspiring Developer blending geospatial scie
 - 🌱 I’m currently learning: Advanced Python, Google Earth Engine, and exploring AI applications in geospatial analysis.
 - 👯 I’m looking to collaborate on: Innovative projects in GIS, Remote Sensing, Disaster Management and Sustainable Development.
 - 🤝 I’m seeking guidance on: Building cloud-based geospatial workflows, scalable GIS solutions and leveraging Machine Learning for spatial data insights.
-- 💬 Ask me about: Geospatial tools, disaster resilience strategies and sustainable urban planning.
+- 💬 Ask me about: Geospatial tools, Disaster resilience strategies and Sustainable urban planning.
 - 🎯 Interests:
    * Exploring how data visualization can transform disaster risk communication.
    * Using geospatial analytics for climate change mitigation and resource management.
