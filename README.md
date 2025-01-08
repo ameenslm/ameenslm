@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! 
 
-I’m Ameen, a passionate Geographer and an Aspiring Developer blending geospatial science, technology, and coding to solve complex challenges in disaster management and urban planning. 🌍💻
+I’m a passionate Geographer and an Aspiring Developer blending geospatial science, technology, and coding to solve complex challenges in disaster management and urban planning. 🌍💻
 
 ## 🚀 About Me
 
